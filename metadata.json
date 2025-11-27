@@ -1,0 +1,5 @@
+{
+  "name": "Tra Cứu Địa Giới Hành Chính Mới",
+  "description": "Ứng dụng tra cứu thông tin thay đổi đơn vị hành chính cấp xã, phường, thị trấn tại Việt Nam. Nhập tên đơn vị cũ để tìm đơn vị hành chính mới tương ứng.",
+  "requestFramePermissions": []
+}
